@@ -28,7 +28,7 @@ Deep3D-DTA/
 │   ├── edge_gat_layer.py  # Edge-aggregated GAT layer
 │   ├── egret_visual.py    # EGRET visualization
 │   └── pretrained_weights.dat  # Pre-trained weights
-├── inputs/                # Input files directory
+├── inputs/                # Pre-trained model
 └── protein_sequences.txt  # Protein sequence data
 ```
 
@@ -44,7 +44,7 @@ Deep3D-DTA/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Deep3D-DTA.git
+git clone git@github.com:ShiLab-GitHub/Deep3D-DTA.git
 cd Deep3D-DTA
 
 # Create virtual environment
